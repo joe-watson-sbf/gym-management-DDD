@@ -1,4 +1,4 @@
-package co.com.sofka.gymmanagement.domain.fitnessgym.command.s;
+package co.com.sofka.gymmanagement.domain.fitnessgym.command;
 
 import co.com.sofka.domain.generic.Command;
 
